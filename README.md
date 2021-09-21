@@ -18,4 +18,8 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 3.Once get valid color panel card added in below container with hexcode value and its background color
 
+4.Here I add all possible color word and its hex code value as a object and check the user input word
+in this predefined color object.
+
+
 
