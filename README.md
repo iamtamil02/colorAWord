@@ -16,9 +16,11 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 3.Check input value exist or valid before start the convertion. If not satisfy alert throw to user
 
-3.Once get valid color panel card added in below container with hexcode value and its background color
+3.Once get valid color word from user, respective color panel card added in below container with hexcode value and its background color
 
-4.Here I add all possible color word and its hex code value as a object and check the user input word
+4.UI and funtions are written in app component
+
+5.Here I add all possible color word and its hex code value as a object and check the user input word
 in this predefined color object.
 
 
